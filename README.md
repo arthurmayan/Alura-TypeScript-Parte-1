@@ -2,8 +2,6 @@
 
 <h3>Conteúdo do curso:</h3>
 
-<br>
-
 <p>
 	- Aprenda a configurar do zero seu ambiente
 	<br>
